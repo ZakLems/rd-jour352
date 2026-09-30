@@ -1,0 +1,43 @@
+/*Main Styles*/
+
+body {
+	font-family: "Open Sans", arial, sans-serif;
+	font-size: 1em;
+	color: #444;
+	font-weight: 400;
+}
+
+/*name at top*/
+#name {
+	font-size: 3em;
+	text-transform: uppercase;
+	text-align: center;
+	color: #33485e;
+	border-bottom: 1px solid #33485e;
+	width: 60%;
+	min-width: 300px;
+	margin: 0 auto;
+}
+
+strong {
+	color: #33485e;
+	text-transform: uppercase;
+	font-size: 1.5em;
+}
+
+#section {
+	font-size: 1.5em;
+	text-transform: uppercase;
+	background-color: #33485e;
+	color: #fff;
+}
+
+/* jobs*/
+.role {
+	font-size: 1.5em;
+	font-weight: 600;
+}
+
+.organization {
+	font-size: 1.5em;
+}
