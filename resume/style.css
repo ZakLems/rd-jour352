@@ -7,6 +7,13 @@ body {
 	font-weight: 400;
 }
 
+#container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 0 0 20px;
+}
+
 /*name at top*/
 #name {
 	font-size: 3em;
@@ -19,25 +26,74 @@ body {
 	margin: 0 auto;
 }
 
-strong {
+ul {
+	font-size: 1em;
+}
+
+.menu {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.menu li {
+	display: inline;
+}
+
+#title {
 	color: #33485e;
 	text-transform: uppercase;
 	font-size: 1.5em;
+	font-weight: 600;
+	text-align: center;
+	margin: 20px 0 0 0;
 }
 
-#section {
+.description {
+	margin: 10px 0;
+}
+
+.sectionHeader {
 	font-size: 1.5em;
 	text-transform: uppercase;
 	background-color: #33485e;
 	color: #fff;
+	margin: 20px 0 10px 0;
+	width: 70%;
+	min-width: 300px;
 }
 
 /* jobs*/
-.role {
+.jobTitle {
 	font-size: 1.5em;
 	font-weight: 600;
 }
 
 .organization {
+	font-weight: 400;
+	font-size: 1.25em;
+}
+
+.date {
+	font-weight: 400;
 	font-size: 1.5em;
+	margin: 2px 0 0 0;
+	font-size: 1em;
+	font-style: italic;
+}
+
+#degrees {
+	margin: 5px 0 0 0;
+}
+
+#do {
+	margin: 5px 0 0 0;
+}
+
+/* the other styles are organized by the order the elements appear on the page*/
+.top {
+	width: 60%;
+	min-width: 300px;
+	margin: 0 auto;
+	margin-bottom: 30px;
 }
