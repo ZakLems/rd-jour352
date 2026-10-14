@@ -1,0 +1,87 @@
+#content {
+	margin: 0 auto;
+	width: 900px;
+}
+
+h1,
+h2,
+h3 {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+p,
+a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+}
+
+#masthead {
+	width: fit-content;
+	margin: 0 auto;
+	border-bottom: 5px solid black;
+}
+
+#masthead > * {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#masthead h1 {
+	margin: 0 auto;
+	font-size: 40px;
+	font-family: "Limelight", sans-serif;
+	font-weight: 400;
+	text-align: center;
+}
+
+#headline h1 {
+	font-size: 28px;
+	margin-bottom: 2px;
+}
+
+#headline p {
+	margin-top: 0.5lh;
+	font-size: 18px;
+}
+
+p#byline {
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+}
+
+figure img {
+	width: 100%;
+}
+
+figcaption {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.float-image {
+	float: left;
+	margin-right: 1em;
+}
+
+blockquote {
+	font-size: 20px;
+	border-left: 5px solid gold;
+	padding: 5px 15px;
+	background-color: rgb(254, 251, 231);
+	font-style: italic;
+	width: 70%;
+}
+
+blockquote p {
+	margin-bottom: 1px;
+	margin-top: 5px;
+}
+
+#read-more h3 {
+	margin-bottom: 5px;
+}
+
+#read-more ul {
+	margin-top: 2px;
+}
