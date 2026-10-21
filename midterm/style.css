@@ -1,0 +1,120 @@
+body {
+	background-color: #364156;
+	color: white;
+}
+
+#content {
+	margin: 0 auto;
+	width: 900px;
+	font-family: "Martel Sans", sans-serif;
+}
+
+#masthead {
+	text-align: left;
+	width: 100%;
+	border-bottom: 5px solid #d66853;
+}
+
+#masthead > * {
+	display: inline-block;
+	vertical-align: middle;
+	color: #d66853;
+	line-height: 75px;
+	margin: 0 auto;
+}
+
+#masthead h1 {
+	font-family: "Young Serif", serif;
+	padding-left: 10px;
+	font-size: 40px;
+}
+
+#masthead ul {
+	float: right;
+	padding: 0;
+	height: 100%;
+}
+
+#masthead li {
+	display: inline;
+	font-weight: 800;
+	padding: 5px;
+}
+
+#masthead li a {
+	text-decoration: none;
+	color: #d66853;
+}
+
+#masthead #selected {
+	color: white;
+}
+
+article {
+	background-color: #364156;
+	border-bottom: 5px solid #d66853;
+}
+
+/*Headline-Byline*/
+
+h1 {
+	font-size: 80px;
+	margin-bottom: 0;
+	text-align: left;
+	line-height: 1.1em;
+}
+
+figure {
+	width: 100%;
+	margin: 20px 0;
+}
+
+figure img {
+	width: 100%;
+	object-fit: contain;
+}
+
+figcaption {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+}
+
+/*article*/
+blockquote {
+	font-family: "Young Serif", serif;
+	color: white;
+	font-size: 30px;
+	border-bottom: 5px solid #d66853;
+	border-top: 5px solid #d66853;
+	text-align: center;
+	padding: 5px 15px;
+	width: 70%;
+	margin: 0 auto;
+}
+
+blockquote p {
+	margin-bottom: 1px;
+	margin-top: 5px;
+}
+
+h2 {
+	font-size: 30px;
+	margin-bottom: 0;
+	text-align: left;
+	line-height: 1.1em;
+}
+
+/* Related */
+#related a {
+	text-decoration: none;
+	color: white;
+}
+
+#related h3 {
+	margin-bottom: 5px;
+}
+
+#related ul {
+	margin-top: 2px;
+}
