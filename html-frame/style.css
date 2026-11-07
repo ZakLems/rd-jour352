@@ -1,0 +1,71 @@
+* {
+	font-family: "Besley", serif;
+	font-style: normal;
+}
+
+#content {
+	width: 60%;
+	margin: 0 auto;
+}
+
+h1 {
+	font-family: "Fraunces", serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
+	font-variation-settings:
+		"SOFT" 0,
+		"WONK" 0;
+}
+
+#byline strong {
+	font-weight: 600;
+}
+
+h2,
+h3 {
+	font-family: "Fraunces", serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+}
+
+/*Images*/
+figure {
+	width: 100%;
+	margin: 20px 0;
+}
+
+figure img {
+	width: 100%;
+	object-fit: contain;
+}
+
+figcaption {
+	opacity: 80%;
+	text-align: left;
+}
+
+/*Block Quotes*/
+blockquote {
+	border-left: 5px solid black;
+	text-align: left;
+	padding: 5px 15px;
+	width: 60%;
+}
+
+blockquote .bq-quote {
+	font-size: 2em;
+	font-style: italic;
+	margin-bottom: 5px;
+}
+
+blockquote .bq-attr {
+	font-size: 1em;
+	font-weight: 450;
+	margin-bottom: 1px;
+	margin-top: 5px;
+}
+
+div:last-child {
+	margin-bottom: 10px;
+}
