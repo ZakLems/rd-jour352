@@ -31,8 +31,8 @@ h3 {
 
 /*Images*/
 figure {
-	width: 100%;
-	margin: 20px 0;
+	width: 85%;
+	margin: 20px auto;
 }
 
 figure img {
@@ -41,7 +41,7 @@ figure img {
 }
 
 figcaption {
-	opacity: 80%;
+	opacity: 60%;
 	text-align: left;
 }
 
