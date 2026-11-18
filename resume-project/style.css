@@ -1,0 +1,89 @@
+/*Paper Textures from https://www.transparenttextures.com/*/
+
+body {
+	font-family: "Fira Sans Condensed", sans-serif;
+	font-weight: 400;
+}
+
+#hero {
+	position: sticky;
+	top: 0;
+	z-index: 0;
+	background-repeat: repeat;
+	mix-blend-mode: multiply;
+	background-image: url("./paper-textures/notebook.png");
+	background-color: #cabaa2;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	align-content: center;
+	gap: 20%;
+	flex-wrap: wrap;
+	color: #001b2e;
+}
+
+#hero > :first-child {
+	font-family: "Cal Sans", sans-serif;
+	font-style: normal;
+	height: auto;
+}
+
+#navbar {
+	position: fixed;
+	bottom: 0;
+	margin: 0 auto; /* Only centers horizontally not vertically! */
+	left: 0;
+	right: 0;
+	z-index: 100;
+}
+
+#navbar ul {
+	font-size: 2.5em;
+}
+
+@media (max-width: 575px) {
+	#navbar ul {
+		font-size: 1.2em !important;
+	}
+
+	#navbar a {
+		padding: 0.2rem;
+	}
+}
+
+#navbar a {
+	position: relative;
+	color: #001b2e;
+	text-decoration: none;
+}
+
+.navbar-toggler {
+	color: #001b2e;
+	padding: 0.2em;
+	border: 2px dashed #001b2e;
+	border-radius: 1em;
+	background-image: url("./paper-textures/notebook.png");
+	background-color: #b4b2af;
+	background-size: 2%;
+}
+
+.navbar-toggler:focus {
+	outline: auto;
+	box-shadow: none;
+	border: 2px solid #001b2e;
+}
+
+/* Underline animation */
+
+#content {
+	width: 60%;
+	margin: 0 auto;
+}
+
+#na {
+	background-image: url("./paper-textures/project-paper.png");
+	background-color: #a19783;
+	box-shadow: 0 0px 60px -3px rgba(0, 0, 0, 0.5);
+	isolation: isolate;
+}

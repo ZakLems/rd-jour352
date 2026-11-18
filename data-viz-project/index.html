@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Data Viz Project</title>
+
+		<!--Bootstrap CSS-->
+		<link
+			href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+			rel="stylesheet"
+			integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+			crossorigin="anonymous"
+		/>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" />
+
+		<!--Google Fonts-->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,100..900,0..100,0..1;1,9..144,100..900,0..100,0..1&display=swap"
+			rel="stylesheet"
+		/>
+
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<div></div>
+		<!-- Navbar start-->
+		<nav class="navbar navbar-expand-lg navbar-light bg-light rounded px-4">
+			<a class="navbar-brand" href="#">Navbar</a>
+			<button
+				class="navbar-toggler"
+				type="button"
+				data-toggle="collapse"
+				data-target="#navbarsExample09"
+				aria-controls="navbarsExample09"
+				aria-expanded="false"
+				aria-label="Toggle navigation"
+			>
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse justify-content-between" id="navbarsExample09">
+				<span></span>
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item active">
+						<a class="nav-link" href="#">Home </a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link disabled" href="#">Disabled</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+		<!-- Navbar end-->
+		<div id="content" class="container">
+			<h2>Charts</h2>
+			<br />
+			<iframe
+				title="Over a quarter of Florida's total executions occurred in 2025 and 2026"
+				aria-label="Column Chart"
+				id="datawrapper-chart-6oR2v"
+				src="https://datawrapper.dwcdn.net/6oR2v/1/"
+				scrolling="no"
+				frameborder="0"
+				style="width: 0; min-width: 100% !important; border: none"
+				height="449"
+				data-external="1"
+			></iframe>
+			<script type="text/javascript">
+				(function () {
+					function e() {
+						window.addEventListener(`message`, function (e) {
+							if (e.data[`datawrapper-height`] !== void 0) {
+								var t = document.querySelectorAll(`iframe`);
+								for (var n in e.data[`datawrapper-height`])
+									for (var r = 0, i; (i = t[r]); r++)
+										if (i.contentWindow === e.source) {
+											var a = e.data[`datawrapper-height`][n] + `px`;
+											i.style.height = a;
+										}
+							}
+						});
+					}
+					e();
+				})();
+			</script>
+			<iframe
+				title="Most of Florida's executions between February and September 2025 were underdosed"
+				aria-label="Bar Chart"
+				id="datawrapper-chart-5suRq"
+				src="https://datawrapper.dwcdn.net/5suRq/1/"
+				scrolling="no"
+				frameborder="0"
+				style="width: 0; min-width: 100% !important; border: none"
+				height="184"
+				data-external="1"
+			></iframe>
+			<script type="text/javascript">
+				(function () {
+					function e() {
+						window.addEventListener(`message`, function (e) {
+							if (e.data[`datawrapper-height`] !== void 0) {
+								var t = document.querySelectorAll(`iframe`);
+								for (var n in e.data[`datawrapper-height`])
+									for (var r = 0, i; (i = t[r]); r++)
+										if (i.contentWindow === e.source) {
+											var a = e.data[`datawrapper-height`][n] + `px`;
+											i.style.height = a;
+										}
+							}
+						});
+					}
+					e();
+				})();
+			</script>
+			<br /><br />
+
+			<h2>Map</h2>
+			<br />
+			<iframe
+				title="In 2025, Florida executed more people than Texas, Alabama, South Carolina and Tennessee combined"
+				aria-label="Choropleth map"
+				id="datawrapper-chart-QwRC3"
+				src="https://datawrapper.dwcdn.net/QwRC3/1/"
+				scrolling="no"
+				frameborder="0"
+				style="width: 0; min-width: 100% !important; border: none"
+				height="538"
+				data-external="1"
+			></iframe>
+			<script type="text/javascript">
+				(function () {
+					function e() {
+						window.addEventListener(`message`, function (e) {
+							if (e.data[`datawrapper-height`] !== void 0) {
+								var t = document.querySelectorAll(`iframe`);
+								for (var n in e.data[`datawrapper-height`])
+									for (var r = 0, i; (i = t[r]); r++)
+										if (i.contentWindow === e.source) {
+											var a = e.data[`datawrapper-height`][n] + `px`;
+											i.style.height = a;
+										}
+							}
+						});
+					}
+					e();
+				})();
+			</script>
+			<footer class="footer mt-auto py-3 bg-dark text-center text-bg-dark">
+				<div class="container">
+					<p>Footer Text</p>
+					<p>Copyright 2026 Company</p>
+				</div>
+			</footer>
+		</div>
+		<!--Bootstrap Js-->
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+			integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+			crossorigin="anonymous"
+		></script>
+	</body>
+</html>

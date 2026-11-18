@@ -1,0 +1,204 @@
+name,Jurisdiction,State,Region,County,"Sub Jurisdiction","State Abbreviation",Race,Sex,Convicted,Exonerated,"Years Between","Exoneration Procedure",Reason,DNA
+"Jermaine Marlow Wright",Delaware,Delaware,South,"New Castle County","New Castle County",DE,Black,Male,1992,2026,33,"Charges Expunged","False Confession, Perjury or False Accusation, Official Misconduct",No
+"Elwood Jones",Ohio,Ohio,Midwest,"Hamilton County","Hamilton County",OH,Black,Male,1996,2025,29,"Charges Dismissed","False or Misleading Forensic Evidence, Official Misconduct, Insufficient Evidence",No
+"Larry Roberts",California,California,West,"Solano County","Solano County",CA,Black,Male,1983,2024,41,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Kerry Max Cook",Texas,Texas,South,"Smith County","Smith County",TX,White,Male,1978,2024,45,"Appellate Acquittal","Mistaken Witness Identification, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",Yes
+"Daniel Gwynn",Pennsylvania,Pennsylvania,Northeast,"Philadelphia County","Philadelphia County",PA,Black,Male,1995,2024,28,"Charges Dismissed","Mistaken Witness Identification, False Confession, Official Misconduct",No
+"Noel Montalvo",Pennsylvania,Pennsylvania,Northeast,"York County","York County",PA,Latino/a,Male,2003,2023,20,"Charges Dismissed","Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense, Insufficient Evidence",Yes
+"Robert A. Melock",Illinois,Illinois,Midwest,"Lake County","Lake County",IL,White,Male,1989,2023,34,"Charges Dismissed","False Confession, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",No
+"Glynn Ray Simmons",Oklahoma,Oklahoma,South,"Oklahoma County","Oklahoma County",OK,Black,Male,1975,2023,48,"Charges Dismissed","Mistaken Witness Identification, Official Misconduct",No
+"Jesse Lee Johnson",Oregon,Oregon,West,"Marion County","Marion County",OR,Black,Male,2004,2023,19,"Charges Dismissed","Official Misconduct, Inadequate Legal Defense, Insufficient Evidence",Yes
+"John Norman Huffington",Maryland,Maryland,South,"Harford County","Harford County",MD,White,Male,1981,2023,41,Pardoned,"Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",Yes
+"Marilyn Mulero",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Latino/a,Female,1993,2022,29,"Charges Dismissed","False Confession, Official Misconduct, Inadequate Legal Defense",No
+"Samuel B. Randolph",Pennsylvania,Pennsylvania,Northeast,"Dauphin County","Dauphin County",PA,Black,Male,2003,2022,19,"Charges Dismissed","Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Sherwood Brown",Mississippi,Mississippi,South,"DeSoto County","DeSoto County",MS,Black,Male,1995,2021,26,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence",Yes
+"Eddie Lee Howard",Mississippi,Mississippi,South,"Lowndes County","Lowndes County",MS,Black,Male,1994,2021,27,"Charges Dismissed","False or Misleading Forensic Evidence, Official Misconduct",Yes
+"Barry G. Williams",California,California,West,"Los Angeles County","Los Angeles County",CA,Black,Male,1986,2021,34,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Paul Lewis Browning",Nevada,Nevada,West,"Clark County","Clark County",NV,Black,Male,1986,2020,34,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",Yes
+"Robert DuBoise",Florida,Florida,South,"Hillsborough County","Hillsborough County",FL,White,Male,1985,2020,35,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",Yes
+"Curtis Giovanni Flowers",Mississippi,Mississippi,South,"Montgomery County","Montgomery County",MS,Black,Male,1997,2020,23,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",No
+"Kareem Johnson",Pennsylvania,Pennsylvania,Northeast,"Philadelphia County","Philadelphia County",PA,Black,Male,2007,2020,13,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",Yes
+"Roderick Andre Johnson",Pennsylvania,Pennsylvania,Northeast,"Berks County","Berks County",PA,Black,Male,1997,2020,23,"Charges Dismissed","False Confession, Perjury or False Accusation, Official Misconduct",No
+"Walter Ogrod",Pennsylvania,Pennsylvania,Northeast,"Philadelphia County","Philadelphia County",PA,White,Male,1996,2020,24,"Charges Dismissed","False Confession, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",Yes
+"Charles Ray Finch","North Carolina","North Carolina",South,"Wilson County","Wilson County",NC,Black,Male,1976,2019,43,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",No
+"Christopher Williams",Pennsylvania,Pennsylvania,Northeast,"Philadelphia County","Philadelphia County",PA,Black,Male,1993,2019,26,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",No
+"Clifford Williams",Florida,Florida,South,"Duval County","Duval County",FL,Black,Male,1976,2019,43,"Charges Dismissed","Mistaken Witness Identification, Official Misconduct, Inadequate Legal Defense",No
+"Clemente Aguirre-Jarquin",Florida,Florida,South,"Seminole County","Seminole County",FL,Latino/a,Male,2006,2018,12,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Inadequate Legal Defense",Yes
+"Vicente Figueroa Benavides",California,California,West,"Kern County","Kern County",CA,Latino/a,Male,1993,2018,25,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",No
+"Rodricus Crawford",Louisiana,Louisiana,South,"Caddo Parish","Caddo Parish",LA,Black,Male,2013,2017,4,"Charges Dismissed","False or Misleading Forensic Evidence, Official Misconduct",No
+"Isaiah McCoy",Delaware,Delaware,South,"Kent County","Kent County",DE,Black,Male,2012,2017,5,Acquitted,"Perjury or False Accusation, Official Misconduct",No
+"Rickey Dale Newman",Arkansas,Arkansas,South,"Crawford County","Crawford County",AR,White,Male,2002,2017,15,"Charges Dismissed","False Confession, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",Yes
+"Gabriel Solache",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Latino/a,Male,2000,2017,17,"Charges Dismissed","False Confession, Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Ralph Daniel Wright Jr.",Florida,Florida,South,"Pinellas County","Pinellas County",FL,Black,Male,2014,2017,3,"Appellate Acquittal","Official Misconduct, Insufficient Evidence",No
+"Alfred Dewayne Brown",Texas,Texas,South,"Harris County","Harris County",TX,Black,Male,2005,2015,10,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, Official Misconduct",No
+"Anthony Ray Hinton",Alabama,Alabama,South,"Jefferson County","Jefferson County",AL,Black,Male,1985,2015,30,"Charges Dismissed","Mistaken Witness Identification, False or Misleading Forensic Evidence, Inadequate Legal Defense",No
+"Derral Wayne Hodgkins",Florida,Florida,South,"Pasco County","Pasco County",FL,White,Male,2013,2015,2,"Appellate Acquittal","Insufficient Evidence",No
+"Larry William Lee",Georgia,Georgia,South,"Wayne County","Wayne County",GA,White,Male,1987,2015,28,"Charges Dismissed","Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Willie Jerome Manning",Mississippi,Mississippi,South,"Oktibbeha County","Oktibbeha County",MS,Black,Male,1994,2015,21,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Debra Jean Milke",Arizona,Arizona,West,"Maricopa County","Maricopa County",AZ,White,Female,1990,2015,25,"Charges Dismissed","False Confession, Perjury or False Accusation, Official Misconduct",No
+"Kwame Ajamu",Ohio,Ohio,Midwest,"Cuyahoga County","Cuyahoga County",OH,Black,Male,1975,2014,39,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Wiley Edward Bridgeman",Ohio,Ohio,Midwest,"Cuyahoga County","Cuyahoga County",OH,Black,Male,1975,2014,39,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Leon Brown","North Carolina","North Carolina",South,"Robeson County","Robeson County",NC,Black,Male,1984,2014,30,"Charges Dismissed","False Confession, Perjury or False Accusation, Official Misconduct",Yes
+"Carl Dausch",Florida,Florida,South,"Sumter County","Sumter County",FL,White,Male,2012,2014,2,Acquitted,"False or Misleading Forensic Evidence, Insufficient Evidence",No
+"Glenn Ford",Louisiana,Louisiana,South,"Caddo Parish","Caddo Parish",LA,Black,Male,1984,2014,30,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",No
+"Ricky Jackson",Ohio,Ohio,Midwest,"Cuyahoga County","Cuyahoga County",OH,Black,Male,1975,2014,39,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Henry Lee McCollum","North Carolina","North Carolina",South,"Cumberland County","Cumberland County",NC,Black,Male,1984,2014,30,"Charges Dismissed","False Confession, Perjury or False Accusation, Official Misconduct",Yes
+"Reginald Griffin",Missouri,Missouri,Midwest,"Randolph County","Randolph County",MO,Black,Male,1983,2013,30,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Joe D'Ambrosio",Ohio,Ohio,Midwest,"Cuyahoga County","Cuyahoga County",OH,White,Male,1989,2012,23,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",No
+"Seth Penalver",Florida,Florida,South,"Broward County","Broward County",FL,White,Male,1999,2012,13,Acquitted,"Perjury or False Accusation, Official Misconduct",No
+"Damon Thibodeaux",Louisiana,Louisiana,South,"Jefferson Parish","Jefferson Parish",LA,White,Male,1997,2012,15,"Charges Dismissed","Mistaken Witness Identification, False Confession, Official Misconduct",Yes
+"Gussie Willis Vann",Tennessee,Tennessee,South,"McMinn County","McMinn County",TN,White,Male,1994,2011,17,"Charges Dismissed","False or Misleading Forensic Evidence, Inadequate Legal Defense",No
+"Anthony Graves",Texas,Texas,South,"Burleson County","Burleson County",TX,Black,Male,1994,2010,16,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",No
+"Yancy Douglas",Oklahoma,Oklahoma,South,"Oklahoma County","Oklahoma County",OK,Black,Male,1995,2009,14,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Nathson Fields",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1986,2009,23,Acquitted,"Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Paul Gregory House",Tennessee,Tennessee,South,"Union County","Union County",TN,White,Male,1986,2009,23,"Charges Dismissed","False or Misleading Forensic Evidence",No
+"Ronald Kitchen",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1988,2009,21,"Charges Dismissed","False Confession, Perjury or False Accusation, Official Misconduct",No
+"Herman Lindsey",Florida,Florida,South,"Broward County","Broward County",FL,Black,Male,2006,2009,3,"Appellate Acquittal","Insufficient Evidence",No
+"Daniel Moore",Alabama,Alabama,South,"Morgan County","Morgan County",AL,White,Male,2002,2009,7,Acquitted,"Official Misconduct",No
+"Paris Powell",Oklahoma,Oklahoma,South,"Oklahoma County","Oklahoma County",OK,Black,Male,1997,2009,12,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Robert Springsteen",Texas,Texas,South,"Travis County","Travis County",TX,White,Male,2001,2009,8,"Charges Dismissed","False Confession, Perjury or False Accusation",Yes
+"Michael Roy Toney",Texas,Texas,South,"Tarrant County","Tarrant County",TX,White,Male,1999,2009,10,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Michael Blair",Texas,Texas,South,"Collin County","Collin County",TX,Asian,Male,1994,2008,14,"Charges Dismissed","Mistaken Witness Identification, False or Misleading Forensic Evidence",Yes
+"Kennedy Brewer",Mississippi,Mississippi,South,"Noxubee County","Noxubee County",MS,Black,Male,1995,2008,13,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",Yes
+"Glen Edward Chapman","North Carolina","North Carolina",South,"Catawba County","Catawba County",NC,Black,Male,1994,2008,14,"Charges Dismissed","Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Levon Jones","North Carolina","North Carolina",South,"Duplin County","Duplin County",NC,Black,Male,1993,2008,15,"Charges Dismissed","Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Jonathan G. Hoffman","North Carolina","North Carolina",South,"Union County","Union County",NC,Black,Male,1995,2007,12,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Curtis E. McCarty",Oklahoma,Oklahoma,South,"Oklahoma County","Oklahoma County",OK,White,Male,1986,2007,21,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",Yes
+"Michael Lee McCormick",Tennessee,Tennessee,South,"Hamilton County","Hamilton County",TN,White,Male,1987,2007,20,Acquitted,"False or Misleading Forensic Evidence, Inadequate Legal Defense",No
+"John Ballard",Florida,Florida,South,"Collier County","Collier County",FL,White,Male,2003,2006,3,"Appellate Acquittal","False or Misleading Forensic Evidence, Insufficient Evidence",No
+"Patrick Eugene Croy",California,California,West,"Siskiyou County","Siskiyou County",CA,"American Indian or Alaska Native",Male,1979,2005,26,Acquitted,"Inadequate Legal Defense",No
+"Derrick Jamison",Ohio,Ohio,Midwest,"Hamilton County","Hamilton County",OH,Black,Male,1985,2005,20,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Harold Christopher Wilson",Pennsylvania,Pennsylvania,Northeast,"Philadelphia County","Philadelphia County",PA,Black,Male,1989,2005,16,Acquitted,"Official Misconduct",Yes
+"Laurence Adams",Massachusetts,Massachusetts,Northeast,"Suffolk County","Suffolk County",MA,Black,Male,1974,2004,30,"Charges Dismissed","Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Dan L. Bright",Louisiana,Louisiana,South,"Orleans Parish","Orleans Parish",LA,Black,Male,1996,2004,8,"Charges Dismissed","Mistaken Witness Identification, Official Misconduct, Inadequate Legal Defense",No
+"James Alan Gell","North Carolina","North Carolina",South,"Bertie County","Bertie County",NC,White,Male,1998,2004,6,Acquitted,"Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",No
+"Ryan Matthews",Louisiana,Louisiana,South,"Jefferson Parish","Jefferson Parish",LA,Black,Male,1999,2004,5,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, Official Misconduct",Yes
+"Gordon Steidl",Illinois,Illinois,Midwest,"Edgar County","Edgar County",IL,White,Male,1987,2004,17,"Charges Dismissed","Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Ernest Ray Willis",Texas,Texas,South,"Pecos County","Pecos County",TX,White,Male,1987,2004,17,"Charges Dismissed","False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",No
+"Joseph Amrine",Missouri,Missouri,Midwest,"Cole County","Cole County",MO,Black,Male,1986,2003,17,"Charges Dismissed","Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Madison Hobley",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1987,2003,16,Pardoned,"Mistaken Witness Identification, False Confession, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",No
+"Rudolph Holton",Florida,Florida,South,"Hillsborough County","Hillsborough County",FL,Black,Male,1986,2003,17,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, Official Misconduct",No
+"Stanley Howard",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1987,2003,16,Pardoned,"False Confession, Perjury or False Accusation, Official Misconduct",No
+"Timothy Howard",Ohio,Ohio,Midwest,"Franklin County","Franklin County",OH,Black,Male,1976,2003,27,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",No
+"Gary James",Ohio,Ohio,Midwest,"Franklin County","Franklin County",OH,Black,Male,1976,2003,27,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",No
+"Leroy Orange",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1984,2003,19,Pardoned,"False Confession, Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Aaron Patterson",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1986,2003,17,Pardoned,"False Confession, Perjury or False Accusation, Official Misconduct",No
+"Lemuel Prion",Arizona,Arizona,West,"Pima County","Pima County",AZ,White,Male,1999,2003,4,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation",No
+"Wesley Quick",Alabama,Alabama,South,"Jefferson County","Jefferson County",AL,White,Male,1997,2003,6,Acquitted,"Perjury or False Accusation",No
+"John Thompson",Louisiana,Louisiana,South,"Orleans Parish","Orleans Parish",LA,Black,Male,1985,2003,18,Acquitted,"Mistaken Witness Identification, Perjury or False Accusation, Official Misconduct",No
+"Nicholas Yarris",Pennsylvania,Pennsylvania,Northeast,"Delaware County","Delaware County",PA,White,Male,1982,2003,21,"Charges Dismissed","Mistaken Witness Identification, False Confession, Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",Yes
+"Thomas Kimbell",Pennsylvania,Pennsylvania,Northeast,"Lawrence County","Lawrence County",PA,White,Male,1998,2002,4,Acquitted,"Perjury or False Accusation",No
+"Ray M. Krone",Arizona,Arizona,West,"Maricopa County","Maricopa County",AZ,White,Male,1992,2002,10,"Charges Dismissed","False or Misleading Forensic Evidence, Official Misconduct",Yes
+"Juan Melendez",Florida,Florida,South,"Polk County","Polk County",FL,Latino/a,Male,1984,2002,18,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Andre Minnitt",Arizona,Arizona,West,"Pima County","Pima County",AZ,Black,Male,1993,2002,9,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Larry Osborne",Kentucky,Kentucky,South,"Campbell County","Campbell County",KY,White,Male,1999,2002,3,"Charges Dismissed","Perjury or False Accusation",No
+"Gary Drinkard",Alabama,Alabama,South,"Morgan County","Morgan County",AL,White,Male,1995,2001,6,"Charges Dismissed","Inadequate Legal Defense",No
+"Charles Fain",Idaho,Idaho,West,"Canyon County","Canyon County",ID,White,Male,1983,2001,18,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",Yes
+"Peter Limone",Massachusetts,Massachusetts,Northeast,"Suffolk County","Suffolk County",MA,White,Male,1968,2001,33,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Joaquin Martinez",Florida,Florida,South,"Hillsborough County","Hillsborough County",FL,Latino/a,Male,1997,2001,4,Acquitted,"Perjury or False Accusation, Official Misconduct",No
+"Jeremy Sheets",Nebraska,Nebraska,Midwest,"Douglas County","Douglas County",NE,White,Male,1997,2001,4,"Charges Dismissed","Perjury or False Accusation",No
+"Albert Ronnie Burrell",Louisiana,Louisiana,South,"Union Parish","Union Parish",LA,White,Male,1987,2000,13,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Eric Darnell Clemmons",Missouri,Missouri,Midwest,"Greene County","Greene County",MO,Black,Male,1987,2000,13,Acquitted,"Mistaken Witness Identification, Official Misconduct",No
+"Michael Graham",Louisiana,Louisiana,South,"Union Parish","Union Parish",LA,White,Male,1987,2000,13,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Joseph Green",Florida,Florida,South,"Bradford County","Bradford County",FL,Black,Male,1993,2000,7,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Steve Manning",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,White,Male,1993,2000,7,"Charges Dismissed","Perjury or False Accusation",No
+"Oscar Lee Morris",California,California,West,"Los Angeles County","Los Angeles County",CA,Black,Male,1983,2000,17,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"William Nieves",Pennsylvania,Pennsylvania,Northeast,"Philadelphia County","Philadelphia County",PA,Latino/a,Male,1994,2000,6,Acquitted,"Mistaken Witness Identification, Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Frank Lee Smith",Florida,Florida,South,"Broward County","Broward County",FL,Black,Male,1986,2000,14,"Charges Dismissed","Mistaken Witness Identification, False Confession, Perjury or False Accusation, Official Misconduct",Yes
+"Earl Washington",Virginia,Virginia,South,"Culpeper County","Culpeper County",VA,Black,Male,1984,2000,16,Pardoned,"False Confession, False or Misleading Forensic Evidence, Inadequate Legal Defense",Yes
+"Shareef Cousin",Louisiana,Louisiana,South,"Orleans Parish","Orleans Parish",LA,Black,Male,1996,1999,3,"Charges Dismissed","Mistaken Witness Identification, Official Misconduct",No
+"Clarence Richard Dexter Jr.",Missouri,Missouri,Midwest,"Clay County","Clay County",MO,White,Male,1991,1999,8,"Charges Dismissed","False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",No
+"Ronald Jones",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1989,1999,10,"Charges Dismissed","Mistaken Witness Identification, False Confession, False or Misleading Forensic Evidence, Official Misconduct",Yes
+"Warren D. Manning","South Carolina","South Carolina",South,"Dillon County","Dillon County",SC,Black,Male,1989,1999,10,Acquitted,"Insufficient Evidence",No
+"Anthony Porter",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1983,1999,16,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation",No
+"Alfred Milton Rivera","North Carolina","North Carolina",South,"Forsyth County","Forsyth County",NC,Latino/a,Male,1997,1999,2,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Steven Smith",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1985,1999,14,Acquitted,"Perjury or False Accusation, Official Misconduct",No
+"Ronald Williamson",Oklahoma,Oklahoma,South,"Pontotoc County","Pontotoc County",OK,White,Male,1988,1999,11,"Charges Dismissed","False Confession, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",Yes
+"Curtis Kyles",Louisiana,Louisiana,South,"Orleans Parish","Orleans Parish",LA,Black,Male,1984,1998,14,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, Official Misconduct",No
+"Robert Miller",Oklahoma,Oklahoma,South,"Oklahoma County","Oklahoma County",OK,Black,Male,1988,1998,10,"Charges Dismissed","False Confession, Perjury or False Accusation, False or Misleading Forensic Evidence",Yes
+"Ricardo Guerra",Texas,Texas,South,"Harris County","Harris County",TX,Latino/a,Male,1982,1997,15,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Benjamin Harris",Washington,Washington,West,"Pierce County","Pierce County",WA,Black,Male,1985,1997,12,"Charges Dismissed","False Confession, Inadequate Legal Defense",No
+"Robert Hayes",Florida,Florida,South,"Broward County","Broward County",FL,Black,Male,1991,1997,6,Acquitted,"False or Misleading Forensic Evidence",No
+"Christopher McCrimmon",Arizona,Arizona,West,"Pima County","Pima County",AZ,Black,Male,1993,1997,4,Acquitted,"Perjury or False Accusation, Official Misconduct",No
+"Larry Randal Padgett",Alabama,Alabama,South,"Marshall County","Marshall County",AL,White,Male,1992,1997,5,Acquitted,"False or Misleading Forensic Evidence, Official Misconduct",No
+"Joseph Burrows",Illinois,Illinois,Midwest,"Kankakee County","Kankakee County",IL,White,Male,1989,1996,7,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Gary Gauger",Illinois,Illinois,Midwest,"McHenry County","McHenry County",IL,White,Male,1993,1996,3,"Charges Dismissed","False Confession, Perjury or False Accusation, Official Misconduct",No
+"David Wayne Grannis",Arizona,Arizona,West,"Pima County","Pima County",AZ,White,Male,1991,1996,5,"Charges Dismissed","Perjury or False Accusation",No
+"Verneal Jimerson",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1985,1996,11,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",Yes
+"Troy Lee Jones",California,California,West,"Merced County","Merced County",CA,Black,Male,1982,1996,14,"Charges Dismissed","Official Misconduct, Inadequate Legal Defense",No
+"Carl Lawson",Illinois,Illinois,Midwest,"St. Clair County","St. Clair County",IL,Black,Male,1990,1996,6,Acquitted,"False or Misleading Forensic Evidence, Inadequate Legal Defense",No
+"Roberto Miranda",Nevada,Nevada,West,"Clark County","Clark County",NV,Latino/a,Male,1982,1996,14,"Charges Dismissed","Perjury or False Accusation, Inadequate Legal Defense",No
+"Dennis Williams",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1979,1996,17,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",Yes
+"Sabrina Tiffany Butler",Mississippi,Mississippi,South,"Lowndes County","Lowndes County",MS,Black,Female,1990,1995,5,Acquitted,"False Confession, False or Misleading Forensic Evidence, Official Misconduct",No
+"Robert Cruz",Arizona,Arizona,West,"Maricopa County","Maricopa County",AZ,Latino/a,Male,1981,1995,14,Acquitted,"Perjury or False Accusation, Official Misconduct",No
+"Rolando Cruz",Illinois,Illinois,Midwest,"DuPage County","DuPage County",IL,Latino/a,Male,1985,1995,10,Acquitted,"False Confession, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",Yes
+"Alejandro Hernandez",Illinois,Illinois,Midwest,"DuPage County","DuPage County",IL,Latino/a,Male,1985,1995,10,"Charges Dismissed","False Confession, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",Yes
+"Adolph Munson",Oklahoma,Oklahoma,South,"Custer County","Custer County",OK,Black,Male,1985,1995,10,Acquitted,"Mistaken Witness Identification, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",No
+"Andrew Golden",Florida,Florida,South,"Polk County","Polk County",FL,White,Male,1991,1994,3,"Charges Dismissed","Inadequate Legal Defense",No
+"Kirk Bloodsworth",Maryland,Maryland,South,"Baltimore County","Baltimore County",MD,White,Male,1984,1993,9,"Charges Dismissed","Mistaken Witness Identification, Official Misconduct",Yes
+"Muneer Deeb",Texas,Texas,South,"McLennan County","McLennan County",TX,Other,Male,1985,1993,8,Acquitted,"Perjury or False Accusation, False or Misleading Forensic Evidence",No
+"Larry Hudson",Louisiana,Louisiana,South,"Orleans Parish","Orleans Parish",LA,Black,Male,1967,1993,26,"Appellate Acquittal","Mistaken Witness Identification, Official Misconduct",No
+"Federico Macias",Texas,Texas,South,"El Paso County","El Paso County",TX,Latino/a,Male,1984,1993,9,"Charges Dismissed","Perjury or False Accusation, Inadequate Legal Defense",No
+"Walter McMillian",Alabama,Alabama,South,"Monroe County","Monroe County",AL,Black,Male,1988,1993,5,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"James Robison",Arizona,Arizona,West,"Maricopa County","Maricopa County",AZ,White,Male,1977,1993,16,Acquitted,"Perjury or False Accusation",No
+"Gregory Wilhoit",Oklahoma,Oklahoma,South,"Osage County","Osage County",OK,White,Male,1987,1993,6,Acquitted,"False or Misleading Forensic Evidence, Inadequate Legal Defense",No
+"Jay Smith",Pennsylvania,Pennsylvania,Northeast,"Dauphin County","Dauphin County",PA,White,Male,1986,1992,6,Acquitted,"Mistaken Witness Identification, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct",No
+"Gary X. Nelson",Georgia,Georgia,South,"Chatham County","Chatham County",GA,Black,Male,1980,1991,11,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",No
+"Bradley Scott",Florida,Florida,South,"Charlotte County","Charlotte County",FL,White,Male,1988,1991,3,"Appellate Acquittal","Insufficient Evidence",No
+"Charles Smith",Indiana,Indiana,Midwest,"Allen County","Allen County",IN,Black,Male,1983,1991,8,Acquitted,"Perjury or False Accusation, Official Misconduct, Inadequate Legal Defense",No
+"Clarence Brandley",Texas,Texas,South,"Montgomery County","Montgomery County",TX,Black,Male,1981,1990,9,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Dale Johnston",Ohio,Ohio,Midwest,"Hocking County","Hocking County",OH,White,Male,1984,1990,6,"Charges Dismissed","Mistaken Witness Identification, False or Misleading Forensic Evidence, Official Misconduct",No
+"Jimmy Mathers",Arizona,Arizona,West,"Yuma County","Yuma County",AZ,White,Male,1987,1990,3,"Appellate Acquittal","Insufficient Evidence",No
+"John Skelton",Texas,Texas,South,"Ector County","Ector County",TX,White,Male,1983,1990,7,"Appellate Acquittal","Insufficient Evidence",No
+"David Roeder",Texas,Texas,South,"Harris County","Harris County",TX,White,Male,1978,1989,11,"Charges Dismissed","Official Misconduct",No
+"Randall Adams",Texas,Texas,South,"Dallas County","Dallas County",TX,White,Male,1977,1989,12,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, Official Misconduct",No
+"Robert Craig Cox",Florida,Florida,South,"Orange County","Orange County",FL,White,Male,1988,1989,1,"Appellate Acquittal","False or Misleading Forensic Evidence, Insufficient Evidence",No
+"Bonnie Erwin",Texas,Texas,South,"Harris County","Harris County",TX,Black,Male,1985,1989,4,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"James Richardson",Florida,Florida,South,"DeSoto County","DeSoto County",FL,Black,Male,1968,1989,21,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Willie Brown",Florida,Florida,South,"Union County","Union County",FL,Black,Male,1983,1988,5,"Charges Dismissed","Perjury or False Accusation",No
+"Richard Jones",Oklahoma,Oklahoma,South,"Grady County","Grady County",OK,White,Male,1983,1988,5,Acquitted,"Official Misconduct",No
+"Charles Tolliver",Ohio,Ohio,Midwest,"Cuyahoga County","Cuyahoga County",OH,Black,Male,1986,1988,2,Acquitted,"Official Misconduct",No
+"Larry Troy",Florida,Florida,South,"Union County","Union County",FL,Black,Male,1983,1988,5,"Charges Dismissed","Perjury or False Accusation",No
+"Joseph Brown",Florida,Florida,South,"Hillsborough County","Hillsborough County",FL,Black,Male,1974,1987,13,"Charges Dismissed","Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",No
+"Perry Cobb",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1979,1987,8,Acquitted,"Perjury or False Accusation, Official Misconduct",No
+"Vernon McManus",Texas,Texas,South,"Harris County","Harris County",TX,White,Male,1977,1987,10,"Charges Dismissed","Inadequate Legal Defense",No
+"Anthony R. Peek",Florida,Florida,South,"Polk County","Polk County",FL,Black,Male,1978,1987,9,Acquitted,"False or Misleading Forensic Evidence",No
+"Juan Ramos",Florida,Florida,South,"Brevard County","Brevard County",FL,Latino/a,Male,1983,1987,4,Acquitted,"Perjury or False Accusation, False or Misleading Forensic Evidence",No
+"Darby Tillis",Illinois,Illinois,Midwest,"Cook County","Cook County",IL,Black,Male,1979,1987,8,Acquitted,"Perjury or False Accusation, Official Misconduct",No
+"Claude Wilkerson",Texas,Texas,South,"Harris County","Harris County",TX,White,Male,1979,1987,8,"Charges Dismissed","False Confession, Official Misconduct",No
+"Clifford Bowen",Oklahoma,Oklahoma,South,"Oklahoma County","Oklahoma County",OK,White,Male,1981,1986,5,"Charges Dismissed","Mistaken Witness Identification, Official Misconduct",No
+"Anthony Brown",Florida,Florida,South,"Escambia County","Escambia County",FL,Black,Male,1983,1986,3,Acquitted,"Perjury or False Accusation",No
+"Neil Ferber",Pennsylvania,Pennsylvania,Northeast,"Philadelphia County","Philadelphia County",PA,White,Male,1982,1986,4,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, Official Misconduct",No
+"Justin Cruz",Texas,Texas,South,"Navarro County","Navarro County",TX,Latino/a,Male,1984,1985,1,"Appellate Acquittal","Perjury or False Accusation, Official Misconduct, Insufficient Evidence",No
+"Larry Fisher",Mississippi,Mississippi,South,"Lauderdale County","Lauderdale County",MS,White,Male,1984,1985,1,Acquitted,"Insufficient Evidence",No
+"Anibal Jaramillo",Florida,Florida,South,"Miami-Dade County","Miami-Dade County",FL,Latino/a,Male,1981,1982,1,"Appellate Acquittal","Insufficient Evidence",No
+"Lawyer Johnson",Massachusetts,Massachusetts,Northeast,"Suffolk County","Suffolk County",MA,Black,Male,1971,1982,11,"Charges Dismissed","Perjury or False Accusation",No
+"Eugene Allen",California,California,West,"San Francisco County","San Francisco County",CA,Black,Male,1976,1981,5,Acquitted,"Official Misconduct",No
+"Charles Lee Bufford",Alabama,Alabama,South,"Wilcox County","Wilcox County",AL,Black,Male,1978,1981,3,Acquitted,"Official Misconduct",No
+"Charles Giddens",Oklahoma,Oklahoma,South,"McCurtain County","McCurtain County",OK,Black,Male,1978,1981,3,"Charges Dismissed","Insufficient Evidence",No
+"Shujaa Graham",California,California,West,"San Joaquin County","San Joaquin County",CA,Black,Male,1976,1981,5,Acquitted,"Official Misconduct",No
+"Michael Linder","South Carolina","South Carolina",South,"Colleton County","Colleton County",SC,White,Male,1979,1981,2,Acquitted,"False or Misleading Forensic Evidence",No
+"Joe Cota Morales",Arizona,Arizona,West,"Maricopa County","Maricopa County",AZ,Latino/a,Male,1976,1981,5,Acquitted,"Official Misconduct",No
+"Johnny Ross",Louisiana,Louisiana,South,"Orleans Parish","Orleans Parish",LA,Black,Male,1975,1981,6,"Charges Dismissed","Mistaken Witness Identification, False Confession, Perjury or False Accusation, False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",No
+"Jerry Banks",Georgia,Georgia,South,"Henry County","Henry County",GA,Black,Male,1975,1980,5,"Charges Dismissed","False or Misleading Forensic Evidence, Official Misconduct, Inadequate Legal Defense",No
+"Larry Hicks",Indiana,Indiana,Midwest,"Lake County","Lake County",IN,Black,Male,1978,1980,2,Acquitted,"Perjury or False Accusation, Inadequate Legal Defense",No
+"Thomas Pearson",Ohio,Ohio,Midwest,"Cuyahoga County","Cuyahoga County",OH,Black,Male,1976,1980,4,"Appellate Acquittal","Perjury or False Accusation, Official Misconduct",No
+"Calvin Sellars",Texas,Texas,South,"Harris County","Harris County",TX,White,Male,1965,1979,14,"Charges Dismissed","False Confession, Official Misconduct, Insufficient Evidence",No
+"Gary Beeman",Ohio,Ohio,Midwest,"Ashtabula County","Ashtabula County",OH,White,Male,1976,1979,3,Acquitted,"Perjury or False Accusation",No
+"Earl Patrick Charles",Georgia,Georgia,South,"Chatham County","Chatham County",GA,Black,Male,1975,1978,3,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation, Official Misconduct",No
+"Gary Radi",Montana,Montana,West,"Yellowstone County","Yellowstone County",MT,White,Male,1975,1978,3,Acquitted,"Perjury or False Accusation, Inadequate Legal Defense, Insufficient Evidence",No
+"Jonathan Treadway",Arizona,Arizona,West,"Maricopa County","Maricopa County",AZ,White,Male,1975,1978,3,Acquitted,"False or Misleading Forensic Evidence",No
+"Delbert Tibbs",Florida,Florida,South,"Lee County","Lee County",FL,Black,Male,1974,1977,3,"Charges Dismissed","Mistaken Witness Identification, Perjury or False Accusation",No
+"John Thomas Alford","North Carolina","North Carolina",South,"Mecklenburg County","Mecklenburg County",NC,Black,Male,1975,1976,1,Acquitted,"Official Misconduct",No
+"Thomas Gladish","New Mexico","New Mexico",West,"Bernalillo County","Bernalillo County",NM,White,Male,1974,1976,2,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Richard Greer","New Mexico","New Mexico",West,"Bernalillo County","Bernalillo County",NM,White,Male,1974,1976,2,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Ronald Keine","New Mexico","New Mexico",West,"Bernalillo County","Bernalillo County",NM,White,Male,1974,1976,2,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Clarence Smith","New Mexico","New Mexico",West,"Bernalillo County","Bernalillo County",NM,White,Male,1974,1976,2,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"James Creamer",Georgia,Georgia,South,"Cobb County","Cobb County",GA,White,Male,1973,1975,2,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Wilbert Lee",Florida,Florida,South,"Gulf County","Gulf County",FL,Black,Male,1963,1975,12,Pardoned,"False Confession, Perjury or False Accusation, Official Misconduct",No
+"Freddie Pitts",Florida,Florida,South,"Gulf County","Gulf County",FL,Black,Male,1963,1975,12,Pardoned,"False Confession, Perjury or False Accusation, Official Misconduct",No
+"Christopher Spicer","North Carolina","North Carolina",South,"New Hanover County","New Hanover County",NC,Black,Male,1973,1975,2,Acquitted,"Perjury or False Accusation",No
+"Howard Jackson Stack",Georgia,Georgia,South,"Fulton County","Fulton County",GA,White,Male,1973,1975,2,"Charges Dismissed","Perjury or False Accusation, Official Misconduct",No
+"Anthony D. Carey","North Carolina","North Carolina",South,"Mecklenburg County","Mecklenburg County",NC,Black,Male,1973,1974,1,"Charges Dismissed","Insufficient Evidence",No
+"Samuel Poole","North Carolina","North Carolina",South,"Moore County","Moore County",NC,Black,Male,1973,1974,1,"Appellate Acquittal","Insufficient Evidence",No
+"David Keaton",Florida,Florida,South,"Leon County","Leon County",FL,Black,Male,1971,1973,2,"Charges Dismissed","Mistaken Witness Identification, False Confession",No
